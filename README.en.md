@@ -31,7 +31,7 @@ Thils will be an application to storage repositories of your portfolio, that wil
 ### Application
 
 <p align="center">
-  <img  src="./assets/nodejs-example.png">
+  <img alt="GoStack" src="https://ibb.co/dDd3Jgm"/>
 </p>
 
 ---
